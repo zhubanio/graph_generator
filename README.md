@@ -13,11 +13,6 @@
 
 ##  Установка
 
-1. Клонируйте репозиторий:
-   ```bash
-   git clone https://github.com/username/config2.git
-   cd config2
-   
 1. Клонируйте репозиторий на свой локальный компьютер:
    ```bash
    git clone https://github.com/username/config2.git

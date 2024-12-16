@@ -15,7 +15,7 @@
 
 1. Клонируйте репозиторий на свой локальный компьютер:
    ```bash
-   git clone https://github.com/zhubanio/config2.git
+   git clone https://github.com/zhubanio/graph_generator.git
 зайдите в директорию  
   
     cd config2

@@ -18,7 +18,7 @@
    git clone https://github.com/zhubanio/graph_generator.git
 зайдите в директорию  
   
-    cd config2
+    cd graph_generator
 
 2. Убедитесь, что у вас установлен Python 3. Вы можете скачать его с официального сайта: https://www.python.org/downloads/.
 

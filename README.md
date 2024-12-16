@@ -26,9 +26,7 @@
 
     ```bash
     python -m venv .venv
-    source .venv/bin/activate   # Для Linux/Mac
     .venv\Scripts\activate      # Для Windows
-    pip install -r requirements.txt
 
 4. Убедитесь, что Node.js и Mermaid CLI установлены:
    ```bash
@@ -61,10 +59,10 @@
       |   └── test_visualizer.py
       ├── .gitignore
       ├── LICENSE
-      ├── main.py          # Основной файл для запуска эмулятора
-      ├── visualizer.py         # Тесты для команд эмулятора
-      ├── dependencies.json         # Список зависимостей
-      └── README.md                # Документация проекта
+      ├── main.py         
+      ├── visualizer.py   
+      ├── dependencies.json
+      └── README.md        
 
 ## Лицензия
 Этот проект лицензирован под MIT License.
